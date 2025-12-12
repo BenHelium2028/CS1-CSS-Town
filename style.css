@@ -24,8 +24,64 @@ body {
    left: 50px;
  }
 
- #Costco-Logo {
-   position: absolute;
-   top: 40%;
-   left: 30%;
- }
+   #Parkinglot {
+    width: 90%;
+    height: 60%;
+    background-color: gray;
+    position: absolute;
+    top: 80%;
+    left: 15%;
+  }
+
+  #Costco {
+    width: 300px;
+    height: 200px;
+    background-color: rgb(87, 67, 19);
+    border: 5px solid rgb(126, 126, 126);
+    position: absolute;
+    top: 50%;
+    left: 35%;
+  }
+  
+  #Costco-Logo {
+    position: relative;
+    top: -30%;
+    left: -10%;
+  }
+
+  #door {
+    font-size: 40px;
+    position: relative;
+    top: -47%;
+    left: 40%;
+  }
+
+  #roof {
+    width: 0;
+    height: 0;
+    border-left: 150px solid transparent;
+    border-right: 150px solid transparent;
+    border-bottom: 700px solid blueviolet;
+    position: relative;
+    top: -520%;
+    left: 0%;
+  }
+
+  #star1 {
+    font-size: 40px;
+    position: relative;
+    top: -630%;
+    left: 70%;
+  }
+  #star2 {
+    font-size: 40px;
+    position: relative;
+    top: -630%;
+    left: 10%;
+  }
+  #star3 {
+    font-size: 40px;
+    position: relative;
+    top: -790%;
+    left: 35%;
+  }
