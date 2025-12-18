@@ -28,7 +28,7 @@ body {
 
    #Parkinglot {
     width: 90%;
-    height: 2000px;
+    height: 1600px;
     background-color: gray;
     position: absolute;
     top: 80%;
@@ -96,7 +96,7 @@ body {
     border: 3px solid white;
     border-radius: 10%;
     position: absolute;
-    top: 56%;
+    top: 73%;
     left: 40px;
     z-index: 20000;
   }
